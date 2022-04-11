@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wanliammar@users.noreply.github.com
+	name = Ammar Wanli
